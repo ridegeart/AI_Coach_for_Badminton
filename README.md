@@ -22,5 +22,6 @@ An implement of AI CUP 2023 [教電腦看羽球 - 台灣第一個結合AI與運�
 - RoundHead / BackHand：Pose Detect；讀取手部與頭部的高度進行判斷。
 - HitterLocationX / HitterLocationY / DefenderLocationX / DefenderLocationY：Pose Detect；讀取腳部的座標。
 - BallType：Track Detect+Pose Detect；讀取打者當下的姿態與球座標。
+
 [教電腦看羽球 - 台灣第一個結合AI與運動的競賽]:https://aidea-web.tw/topic/cbea66cc-a993-4be8-933d-1aa9779001f8
 [TrackNetV2: Efficient TrackNet (GitLab)]:https://nol.cs.nctu.edu.tw:234/open-source/TrackNetv2
